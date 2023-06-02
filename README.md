@@ -157,3 +157,4 @@ docker run --name soybean -p 80:80 -d soybeanjs/soybean-admin:v0.9.6
 ## License
 
 [MIT © Soybean-2021](./LICENSE)
+
